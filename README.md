@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nathan3800
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nathanshifflett38@gmail.com
 
 <!---
